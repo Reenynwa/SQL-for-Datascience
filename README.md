@@ -1,1 +1,2 @@
-# SQL-for-Datascience
+#SQl for Datascience
+#Olympics datasets analysis 
